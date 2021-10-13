@@ -512,7 +512,7 @@ And the final result:
 
 ![advanced_lane_finding]
 
-<mark> * The full project video can be found [here](https://github.com/LucasMirachi/CarND-Advanced-Lane-Lines-master/blob/main/output.mp4).</mark>
+<mark> * The full project video can be found [here](https://github.com/LucasMirachi/CarND-Advanced-Lane-Lines/blob/main/output.mp4).</mark>
 
 ---
 # Discussion
