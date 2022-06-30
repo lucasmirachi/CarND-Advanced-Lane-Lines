@@ -33,7 +33,6 @@
 [advanced_lane_finding]: ./images_writeup/advanced_lane_finding.png
 [shadows]: ./images_writeup/shadows.png
 [full_pipeline]: ./images_writeup/full_pipeline.png
-[review_img]: ./images_writeup/2.png
 
 The goals/steps of this project are:
 
@@ -533,8 +532,6 @@ Another idea I would like apply in a future (I have no clue if it is even possib
 (Optional) Include a binary mini-map on the video
 
 Another addition that would be helpful here is if you could display a mini-map in your video to visualize your fitted lines and sliding windows. This is how I did it in my project:
-
-![review_img]
 
 As seen here, the fitted lane does not perfectly cover the correct area; However, from the binary output, I was able to tell that it was caused by the pixels covered by the sliding windows. In this project, you may use this technique in addition to a better thresholding technique mentioned above to get your system to work with the challenge #1 video, but for the harder challenge video, a more viable technique to use is by using semantic segmentation.
 
